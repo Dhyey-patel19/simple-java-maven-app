@@ -22,7 +22,7 @@
   <build>
     <plugins>
       <plugin>
-        <artifactId>maven-jar-plugin</artifactId>
+        <artifactId>maven-compiler-plugin</artifactId>
         <version>3.5.1</version>
         <!-- Build an executable JAR -->
         <groupId>org.apache.maven.plugins</groupId>
